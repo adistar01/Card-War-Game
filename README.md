@@ -1,0 +1,2 @@
+# Card-War-Game
+This is a Card War Game. Here deck of cards is randomly distributed among user and computer. Then each of both plays a card. The person having higher rank card gets the card of opponent as well. In case of tie a war is played where both opponents have to place three cards facing down and one card up from top of deck of their cards. The person having higher ranked card  gets all the other cards of the opponent. The game is played until one of competitors is left with no cards. 
